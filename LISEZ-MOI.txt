@@ -1,0 +1,5 @@
+DEMARRAGE RAPIDE (Windows)
+1. Double-cliquez sur setup.bat (une seule fois).
+2. Ouvrez ce dossier dans Android Studio (File > Open).
+3. Demarrez XAMPP (Apache + MySQL), puis lancez l'app (bouton vert).
+4. Ajoutez vos 4 captures dans screenshots/ et votre video dans demo/demo.mp4.
