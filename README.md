@@ -12,7 +12,7 @@ https://github.com/espoirbaraka/api-test
 - Navigation par barre du bas, gestion des erreurs et indicateurs de chargement
 
 ## Démonstration vidéo
-▶️ **[Voir la vidéo de démonstration](demo/demo.mp4)**
+▶️ **[[Voir la vidéo de démonstration](demo/demo.mp4)](https://drive.google.com/file/d/1zQ2X-RCI_nRK-Wof108cDAKuMG2BE8ak/view?usp=drive_link)**
 
 ## Captures d'écran
 
